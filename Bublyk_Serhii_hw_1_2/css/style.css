@@ -1,0 +1,40 @@
+.content {
+    margin:auto;
+    width: 877px;
+}
+legend {
+    font-weight: bold;
+    font-size: 16px;
+ }
+fieldset {
+    margin-bottom:20px;
+    padding-bottom: 20px;
+}
+li {
+   list-style-type: none;
+}
+ul {
+    margin-top:0;
+    margin-left: 0;
+    padding-left: 0;
+    margin-bottom:10px;
+}
+li.int {
+    margin-top: 13px;
+}
+P.inerlineb {
+    margin-bottom:auto;
+}
+P.inerlinet {
+    margin-top:auto;
+}
+.dmb{
+    display: block;
+    margin-bottom: auto;
+    font-size: 16px;
+    font-weight: bold;
+}
+.are {
+    display: block;
+    margin-bottom:10px;
+}
